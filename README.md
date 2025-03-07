@@ -36,3 +36,8 @@ Need to install llama 3.2 before starting with the installation.
 git clone https://github.com/yourusername/gcloud-nlp-cli.git
 cd gcloud-nlp-cli
 pip install -r requirements.txt
+```
+---
+
+### **Live Demo**
+https://drive.google.com/file/d/1DvxUp5OTDzG1j-e2iU1SpcFTGpHoJESh/view?usp=drive_link
